@@ -2,7 +2,7 @@ title: The-legend-of-zelda-breath-of-the-wild-fanweb
 description: This is a Fan made website that people can talk about breath of the wild, have theories, wikis, gameplay, etc. Beta V.0.0.1
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 
 gems:
   - jekyll-mentions
